@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/90/src/com/qaoftheday
+END
+ResultsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/src/com/qaoftheday/ResultsActivity.java
+END
+HttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/16/src/com/qaoftheday/HttpHelper.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/22/src/com/qaoftheday/Logger.java
+END
+PushService.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/src/com/qaoftheday/PushService.java
+END
+RegisterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/src/com/qaoftheday/RegisterActivity.java
+END
+ConnectionLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/src/com/qaoftheday/ConnectionLog.java
+END
+QuestionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/src/com/qaoftheday/QuestionActivity.java
+END
+AchievementsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/87/src/com/qaoftheday/AchievementsActivity.java
+END
+TopicActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/src/com/qaoftheday/TopicActivity.java
+END
+TodaysQuestionsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/src/com/qaoftheday/TodaysQuestionsActivity.java
+END
+StatsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/90/src/com/qaoftheday/StatsActivity.java
+END
+UpdateAccountActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/src/com/qaoftheday/UpdateAccountActivity.java
+END
+PushActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/src/com/qaoftheday/PushActivity.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/90/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/90/res/layout/main.xml
+END
+register.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/16/res/layout/register.xml
+END
+question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1/res/layout/question.xml
+END
+achievement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/87/res/layout/achievement.xml
+END
+error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/87/res/layout/error.xml
+END
+topic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/9/res/layout/topic.xml
+END
+stats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/90/res/layout/stats.xml
+END
+results.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/16/res/layout/results.xml
+END

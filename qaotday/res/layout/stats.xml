@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color"
+    >
+    <ScrollView
+		android:id="@+id/statsScrollView"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1">
+		<LinearLayout
+			android:id="@+id/stats_linearlayout"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+		>
+		<!-- <TableLayout
+			android:id="@+id/stats_table_layout"
+			android:layout_width="fill_parent"
+       		android:layout_height="wrap_content" 
+        	android:stretchColumns="1">
+			<TableRow> -->
+		    <ImageView android:id="@+id/logo" 
+		          android:src="@drawable/logo"
+		          android:layout_centerHorizontal="true" 
+		          android:layout_width="wrap_content" 
+		          android:layout_height="wrap_content"       
+		          android:layout_gravity="center_horizontal"
+		          android:layout_marginTop="1dip"    
+		    /> 
+		   <!-- </TableRow>
+		    <TableRow> --> 
+		    <TextView android:id="@+id/usernamelabel_text" 
+			     android:text = "@string/username"   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    />
+		    <TextView android:id="@+id/username_text" 
+			     android:text = ""   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_gravity="center_horizontal"
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    /><!-- 
+		    </TableRow> 
+		    <TableRow> -->
+		    <TextView android:id="@+id/totalanswerslabel_text" 
+			     android:text = "@string/total_answers_submitted"   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    />
+		    <TextView android:id="@+id/totalanswers_text" 
+			     android:text = ""   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_gravity="center_horizontal"
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    /><!-- 
+		    </TableRow> 
+		    <TableRow> -->
+		    <TextView android:id="@+id/correctanswerslabel_text" 
+			     android:text = "@string/correct_answers_submitted"   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    />
+		    <TextView android:id="@+id/correctanswers_text" 
+			     android:text = ""   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_gravity="center_horizontal"
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    /><!-- 
+		    </TableRow>
+		    <TableRow> -->
+		    <TextView android:id="@+id/average_rank_label_text" 
+			     android:text = "@string/average_rank"   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    />
+		    <TextView android:id="@+id/average_rank_text" 
+			     android:text = ""   
+			     android:layout_width="wrap_content" 
+			     android:layout_height="wrap_content" 
+		         android:layout_gravity="center_horizontal"
+		         android:layout_marginTop="1dip"    
+		         android:textColor="@color/text_color"
+		    /><!-- 
+		    </TableRow>  -->
+		    <!-- <Button android:id="@+id/stats_done_button"
+				    android:text="@string/done"
+				    android:layout_width="200dip" 
+		            android:layout_height="wrap_content" 
+		            android:layout_gravity="center_horizontal"
+		            android:layout_marginTop="1dip"/> -->
+		</LinearLayout>
+		<!-- </TableLayout> -->
+    </ScrollView>
+</LinearLayout>

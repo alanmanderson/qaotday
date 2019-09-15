@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color"
+    >
+    
+    <ImageView android:id="@+id/logo" 
+          android:src="@drawable/logo"
+          android:layout_centerHorizontal="true" 
+          android:layout_width="wrap_content" 
+          android:layout_height="wrap_content"       
+          android:layout_gravity="center_horizontal"
+          android:layout_marginTop="1dip"    
+     /> 
+	<Button android:id="@+id/todays_question_button"
+		    android:text="@string/todays_question"
+		    android:layout_width="200dip" 
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="1dip"/>
+	<!-- <Button android:id="@+id/past_questions_button"
+		    android:text="@string/past_questions"
+		    android:layout_width="200dip" 
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="1dip"/> -->
+    <Button android:id="@+id/register_topic_button"
+		    android:text="@string/register_new_topic"
+		    android:layout_width="200dip" 
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="1dip"/>
+    <Button android:id="@+id/view_stats_button"
+		    android:text="@string/view_stats"
+		    android:layout_width="200dip" 
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="1dip"/>
+    <Button android:id="@+id/view_acheivements_button"
+		    android:text="@string/view_achievements"
+		    android:layout_width="200dip" 
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="1dip"/>
+    <Button android:id="@+id/edit_account_button"
+		    android:text="@string/edit_account"
+		    android:layout_width="200dip" 
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="1dip"/>
+ <!--   <Button android:id="@+id/register_button"
+          android:text="@string/register"
+          android:layout_width="200dip" 
+          android:layout_height="wrap_content" 
+          android:layout_gravity="center_horizontal"
+          android:layout_marginTop="1dip"/>
+          /> -->          
+    <TextView android:id="@+id/aboutlabel_text" 
+	     android:text = "@string/about"   
+	     android:layout_width="wrap_content" 
+	     android:layout_height="wrap_content" 
+         android:layout_gravity="center_horizontal"
+         android:layout_marginTop="1dip"    
+         android:textColor="@color/text_color"
+     />
+</LinearLayout>
